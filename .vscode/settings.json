@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/02bdd1d9-35fe-474c-8daa-726f4e2bbb1a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MyBookingSystemApi",
+    "appService.deploySubpath": "."
+}
